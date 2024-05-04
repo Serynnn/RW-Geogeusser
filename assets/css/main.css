@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'Rodondo';
+      src: url(~/assets/fonts/Rodondo.otf) format('opentype');
+    }
+  }
